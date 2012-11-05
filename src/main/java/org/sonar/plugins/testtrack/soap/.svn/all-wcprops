@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sonar-plugins/!svn/ver/5626/trunk/jira/src/main/java/org/sonar/plugins/jira/soap
+END
+JiraSoapSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sonar-plugins/!svn/ver/5626/trunk/jira/src/main/java/org/sonar/plugins/jira/soap/JiraSoapSession.java
+END

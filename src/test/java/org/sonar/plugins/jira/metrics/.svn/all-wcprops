@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sonar-plugins/!svn/ver/5628/trunk/jira/src/test/java/org/sonar/plugins/jira/metrics
+END
+JiraWidgetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sonar-plugins/!svn/ver/5627/trunk/jira/src/test/java/org/sonar/plugins/jira/metrics/JiraWidgetTest.java
+END
+JiraMetricsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sonar-plugins/!svn/ver/5625/trunk/jira/src/test/java/org/sonar/plugins/jira/metrics/JiraMetricsTest.java
+END
+JiraSensorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sonar-plugins/!svn/ver/5628/trunk/jira/src/test/java/org/sonar/plugins/jira/metrics/JiraSensorTest.java
+END

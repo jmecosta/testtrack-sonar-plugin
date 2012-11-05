@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sonar-plugins/!svn/ver/5633/trunk/jira/src/main/resources/org/sonar/plugins/jira/metrics
+END
+jiraWidget.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sonar-plugins/!svn/ver/5633/trunk/jira/src/main/resources/org/sonar/plugins/jira/metrics/jiraWidget.html.erb
+END

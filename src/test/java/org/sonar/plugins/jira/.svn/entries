@@ -1,0 +1,64 @@
+10
+
+dir
+6133
+https://svn.codehaus.org/sonar-plugins/trunk/jira/src/test/java/org/sonar/plugins/jira
+https://svn.codehaus.org/sonar-plugins
+
+
+
+2012-06-22T12:43:17.921518Z
+5791
+fabemn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d25a0af3-c461-0410-a42d-853a01480fe4
+
+JiraPluginTest.java
+file
+
+
+
+replace
+
+844de3308ad298974693cf9efb85e892
+2012-05-25T16:22:26.881367Z
+5611
+fabemn
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+copied
+https://svn.codehaus.org/sonar-plugins/trunk/jira/src/test/java/org/sonar/plugins/jira/JiraPluginTest.java
+6133
+
+l10n
+dir
+
+metrics
+dir
+
+
+
+delete
+
+reviews
+dir
+

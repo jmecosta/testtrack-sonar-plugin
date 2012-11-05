@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sonar-plugins/!svn/ver/5727/trunk/jira/src/main/java/org/sonar/plugins/jira/reviews
+END
+LinkFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sonar-plugins/!svn/ver/5632/trunk/jira/src/main/java/org/sonar/plugins/jira/reviews/LinkFunction.java
+END
+JiraIssueCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sonar-plugins/!svn/ver/5727/trunk/jira/src/main/java/org/sonar/plugins/jira/reviews/JiraIssueCreator.java
+END
+WorkflowBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sonar-plugins/!svn/ver/5632/trunk/jira/src/main/java/org/sonar/plugins/jira/reviews/WorkflowBuilder.java
+END
